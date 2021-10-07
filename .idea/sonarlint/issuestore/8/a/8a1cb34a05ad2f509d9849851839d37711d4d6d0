@@ -1,0 +1,17 @@
+
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÚÓÌøª/
+Q
+java:S1611"/Remove the parentheses around the "s" parameter(¿À§–şÿÿÿÿ8‰¤Şã.
+L
+java:S1611"/Remove the parentheses around the "s" parameter(ğ¼““8¥ï¢Şã.
+L
+java:S1611"/Remove the parentheses around the "s" parameter(¾Õ €8¥ï¢Şã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¼““8¥ï¢Şã.
+>
+java:S1116!"Remove this empty statement.(ôŸìúÿÿÿÿ8ê„¾øª/
+I
+java:S1612",Replace this lambda with a method reference.(ğ¼““8ÉÊàã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾Õ €8¥ï¢Şã.
+I
+java:S1612",Replace this lambda with a method reference.(¾Õ €8ÉÊàã.

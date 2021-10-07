@@ -1,0 +1,21 @@
+
+W
+java:S1854"BRemove this useless assignment to local variable "optionalValue3".(Ñõ	
+B
+java:S2201"'The return value of "get" must be used.(Øù±êúÿÿÿÿ
+J
+java:S2201"/The return value of "orElseThrow" must be used.(ˆÇîÀÿÿÿÿÿ
+J
+java:S2201"/The return value of "orElseThrow" must be used.(à³íçøÿÿÿÿ
+H
+java:S1481"3Remove this unused "optionalValue3" local variable.(Ñõ	
+N
+java:S1481"3Remove this unused "optionalValue4" local variable.(½Ï…áşÿÿÿÿ
+H
+java:S2201"-The return value of "orElseGet" must be used.(¼ËªÌùÿÿÿÿ
+]
+java:S1854"BRemove this useless assignment to local variable "optionalValue4".(½Ï…áşÿÿÿÿ
+@
+java:S2201"*The return value of "orElse" must be used.(›Ûçó
+G
+java:S1612",Replace this lambda with a method reference.(ˆÇîÀÿÿÿÿÿ

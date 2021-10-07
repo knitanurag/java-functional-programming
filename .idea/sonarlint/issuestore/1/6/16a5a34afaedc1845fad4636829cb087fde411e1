@@ -1,0 +1,20 @@
+
+M
+java:S1611"1Remove the parentheses around the "val" parameter(áÄ8âî›¶ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú¸ı8†åñ¶ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–ñÏ»8‰ı’¶ã.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "value" 3 times.(Éå…†ıÿÿÿÿ8†åñ¶ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú‚òôøÿÿÿÿ8ˆ³î¶ã.
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(éİãğıÿÿÿÿ
+H
+java:S1612",Replace this lambda with a method reference.(áÄ8âî›¶ã.
+L
+java:S1611"/Remove the parentheses around the "e" parameter(–ñÏ»8‰ı’¶ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö†Ë©8¨£¶ã.
+R
+java:S3655	"7Call "Optional#isPresent()" before accessing the value.(éİãğıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²åáÇüÿÿÿÿ8 ®­¶ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“¼å¥8ÿ¢í¶ã.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(áÄ8âî›¶ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²åáÇüÿÿÿÿ8‘«¶ã.

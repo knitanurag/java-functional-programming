@@ -1,0 +1,18 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“Ó±Ç8—•‰ğã.
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Áïù³ıÿÿÿÿ8°©íã.
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'IntFunction<Function>'(­¼¸Ëÿÿÿÿÿ8ÔôåÌ«/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­·°ÿ8µÉûÌ«/
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'IntFunction<Function>'(Áïù³ıÿÿÿÿ8°©íã.
+Q
+java:S1611"/Remove the parentheses around the "u" parameter(Áïù³ıÿÿÿÿ8°©íã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îùñ‰8µÉûÌ«/
+L
+java:S1611	"/Remove the parentheses around the "v" parameter(†Í÷á8¾’«íã.
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'IntFunction<Function>'(ïûùÒúÿÿÿÿ8µÉûÌ«/
+s
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¡òê€8¡úçÌ«/
