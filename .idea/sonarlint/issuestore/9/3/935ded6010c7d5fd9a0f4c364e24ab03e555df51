@@ -1,10 +1,9 @@
 
-N
-java:S1612",Replace this lambda with a method reference.(ν“ÿÿÿÿÿÿ8π¦ώβγ.
-k	java:S116"ORename this field "Area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Η¨ ύ8σκσβγ.
-I
-java:S1612",Replace this lambda with a method reference.(ÿΙΤύ8π¦ώβγ.
->
-java:S1116"Remove this empty statement.(τμϊÿÿÿÿ8ιλώβγ.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(α“Τϊÿÿÿÿ8“±ζηγ.
+<
+java:S1116"Remove this empty statement.(τμϊÿÿÿÿ8ιλώβγ.
+G
+java:S1612",Replace this lambda with a method reference.(ÿΙΤύ8π¦ώβγ.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(α“Τϊÿÿÿÿ8“±ζηγ.
+i	java:S116"ORename this field "Area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Η¨ ύ8σκσβγ.
+L
+java:S1612",Replace this lambda with a method reference.(ν“ÿÿÿÿÿÿ8π¦ώβγ.

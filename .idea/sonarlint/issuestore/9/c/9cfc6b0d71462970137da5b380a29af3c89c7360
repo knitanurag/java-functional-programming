@@ -1,0 +1,9 @@
+
+X	java:S125
+"<This block of commented-out lines of code should be removed.(à¥‚É8Óêˆ­ß/
+b
+java:S1144"ERemove this unused private "reverseStringWithoutStringBuffer" method.(ıÜå‹8Óêˆ­ß/
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ë“„Ñşÿÿÿÿ8¾ô†­ß/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÈ¿µ8—¤ˆ­ß/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³–Ú¯üÿÿÿÿ8Åæ÷¬ß/

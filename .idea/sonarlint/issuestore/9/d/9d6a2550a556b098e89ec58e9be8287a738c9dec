@@ -1,0 +1,35 @@
+
+‡
+java:S2159""qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ºÅ¤©
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ì•æŞúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÖ±Ä
+S
+java:S1197"8Move the array designator from the variable to the type.(Ïûêşÿÿÿÿ
+Œ
+java:S2159 "qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(¾‹ÿ€şÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.( É‡
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(óö€
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(·˜·Ùûÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(à¡ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Îåóşÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(õğœ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(¬†Û
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Ë««·
+J
+java:S3740"/Provide the parametrized type for this generic.(İ‘¹òüÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(”–ááùÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ëöšıÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(œ½¾¸ùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(â×Çªøÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ñÒ€™
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ëŒã
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(à¡ 
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÀœÊ´øÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Şæöô
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(™ÚÚ…
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(é¥èÌ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(—›ş‰úÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(›§ä¾
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¤£áàüÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ä•«Ïüÿÿÿÿ

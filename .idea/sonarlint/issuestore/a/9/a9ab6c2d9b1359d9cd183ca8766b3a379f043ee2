@@ -1,19 +1,19 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(Ô«İ8‰Ë¿ÏÄ/
-U	java:S106D"9Replace this use of System.out or System.err by a logger.(›óéÓ8®ÙÆÏÄ/
-U	java:S1063"9Replace this use of System.out or System.err by a logger.(¨—êù8¥áÑÏÄ/
 Z	java:S106="9Replace this use of System.out or System.err by a logger.(®›úÿÿÿÿ8®ÙÆÏÄ/
-a
-java:S11446"?Remove this unused private "buildBiggestPossibleNumber" method.(½¿¼æùÿÿÿÿ8î½ÒÏÄ/
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ËƒŸÏÄ/
-R
-java:S1144@"0Remove this unused private "findMaxLong" method.(µĞ²øÿÿÿÿ8®ÙÆÏÄ/
 V
 java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Œİ‰ÖÅ/
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Œİ‰ÖÅ/
+a
+java:S11446"?Remove this unused private "buildBiggestPossibleNumber" method.(½¿¼æùÿÿÿÿ8î½ÒÏÄ/
 U	java:S106+"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8Œİ‰ÖÅ/
+R
+java:S1144@"0Remove this unused private "findMaxLong" method.(µĞ²øÿÿÿÿ8®ÙÆÏÄ/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ËƒŸÏÄ/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(›óéÓ8®ÙÆÏÄ/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ô«İ8‰Ë¿ÏÄ/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(¨—êù8¥áÑÏÄ/
 Y
 java:S1144"7Remove this unused private "findSumPrimeNumber" method.(“Àœàüÿÿÿÿ8Œİ‰ÖÅ/
 Z
 java:S1144."8Remove this unused private "sortStringCharacter" method.(–åìßøÿÿÿÿ8Œİ‰ÖÅ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8Œİ‰ÖÅ/

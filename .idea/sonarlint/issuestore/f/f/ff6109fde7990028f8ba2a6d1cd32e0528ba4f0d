@@ -1,0 +1,15 @@
+
+A
+java:S1659"Declare "j" on a separate line.(óì•½ùÿÿÿÿ8‘¨ÜˆÔ/
+H
+java:S1481"&Remove this unused "j" local variable.(óì•½ùÿÿÿÿ8ã”ŞˆÔ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñª×È8‘¨ÜˆÔ/
+X
+java:S1854";Remove this useless assignment to local variable "result1".( »É³8†‹ÚˆÔ/
+F
+java:S1659"$Declare "input2" on a separate line.(‹êæÁüÿÿÿÿ8†‹ÚˆÔ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­Õœ8†‹ÚˆÔ/
+A
+java:S1659"Declare "k" on a separate line.(óì•½ùÿÿÿÿ8‘¨ÜˆÔ/
+]
+java:S1854";Remove this useless assignment to local variable "result1".(ùà‚îüÿÿÿÿ8†‹ÚˆÔ/

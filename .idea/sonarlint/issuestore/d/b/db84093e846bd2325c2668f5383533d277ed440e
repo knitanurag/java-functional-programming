@@ -1,0 +1,22 @@
+
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(šàà
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜õ»üÿÿÿÿ
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(ÆÌİ+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢„¯¤øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÉ¥şÿÿÿÿ
+r
+java:S1192"WDefine a constant instead of duplicating this literal "Capacity of builder = " 3 times.(¢„¯¤øÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ŞÎîÛüÿÿÿÿ
+p
+java:S1192"UDefine a constant instead of duplicating this literal "Length of builder = " 3 times.(˜õ»üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢„¯¤øÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(şÄúÁşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÚ·éıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢„¯¤øÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(èòÚşÿÿÿÿ
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(”ùy
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ©˜øÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¼éïÀøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜õ»üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜õ»üÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Œæº‚

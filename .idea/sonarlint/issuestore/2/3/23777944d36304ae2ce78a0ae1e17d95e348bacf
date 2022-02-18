@@ -1,0 +1,40 @@
+
+N
+java:S49731"9Use the "equals" method if value comparison was intended.(µŒ¯o
+O
+java:S21215"9Remove this "substring" call; it has predictable results.(ÊË¯¢
+N
+java:S4973)"9Use the "equals" method if value comparison was intended.(µŒ¯o
+W
+java:S2121/"<Remove this "replaceFirst" call; it has predictable results.(ýÝª–ùÿÿÿÿ
+N
+java:S4973-"9Use the "equals" method if value comparison was intended.(µŒ¯o
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(µŒ¯o
+L
+java:S1854I"6Remove this useless assignment to local variable "s5".(ËÓ¬
+N
+java:S4973#"9Use the "equals" method if value comparison was intended.(µŒ¯o
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(µŒ¯o
+N	java:S106("9Replace this use of System.out or System.err by a logger.(‰¥èî
+N
+java:S49737"9Use the "equals" method if value comparison was intended.(µŒ¯o
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÿ±¼©øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡‹˜–øÿÿÿÿ
+^
+java:S5361+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(þ‡®¹
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(µŒ¯o
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Â¿ ûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÿèû
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ãÑþúÿÿÿÿ
+=
+java:S1481I"'Remove this unused "s5" local variable.(ËÓ¬
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(µŒ¯o
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”é·®
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(îóÿáùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òÆ¦Í
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ì˜¾Ýøÿÿÿÿ

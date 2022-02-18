@@ -1,0 +1,29 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¾Ô´úÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(òÉƒ¬
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Êå‹ÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(…ïÇŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›éığúÿÿÿÿ
+E
+java:S3740!"/Provide the parametrized type for this generic.(êãØ­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…ïÇŒ
+M	java:S106="9Replace this use of System.out or System.err by a logger.(£¢ì5
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÀñŒ­øÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¾é‹Á
+J
+java:S3740"/Provide the parametrized type for this generic.(Å×­ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¾Ô´úÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(ğ¸Ã
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ÏÖğ¨
+E
+java:S3740"/Provide the parametrized type for this generic.(©šƒ®
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¡à³îúÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(áÏéÄ
+Œ
+java:S2159D"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(úëÿ«úÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(½­Ì†şÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¶¡ÔÛÿÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¥î»
+V	java:S1254"<This block of commented-out lines of code should be removed.(·ñä£şÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(çÀ‰´ùÿÿÿÿ
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(ú¸-

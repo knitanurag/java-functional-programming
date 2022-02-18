@@ -1,0 +1,11 @@
+
+[
+java:S3518"9Make sure "i" can't be zero before doing this modulation.(ÿÖ¿îùÿÿÿÿ8„Ó¶„à/
+V
+java:S3516"9Refactor this method to not always return the same value.(ú¡Ô«8çû·„à/
+[
+java:S3516"9Refactor this method to not always return the same value.(£¼î»ýÿÿÿÿ8çû·„à/
+[
+java:S3518"9Make sure "i" can't be zero before doing this modulation.(ÿÖ¿îùÿÿÿÿ8²«µ„à/
+{
+java:S4144"YUpdate this method so that its implementation is not identical to "usingHalf" on line 15.(£¼î»ýÿÿÿÿ8çû·„à/

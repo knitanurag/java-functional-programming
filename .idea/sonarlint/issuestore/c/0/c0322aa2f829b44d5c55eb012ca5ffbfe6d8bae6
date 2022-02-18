@@ -1,0 +1,14 @@
+
+\
+java:S1144":Remove this unused private "createFabonacciSeries" method.(ÇŒáûÿÿÿÿ8½îşƒà/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ÃÁÙ8ä„»ıß/
+F
+java:S1659"$Declare "second" on a separate line.(°­‚ûÿÿÿÿ8÷ıƒà/
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8ùíÌıß/
+F
+java:S1659"$Declare "result" on a separate line.(°­‚ûÿÿÿÿ8÷ıƒà/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¨Ìøƒà/
+W	java:S125"<This block of commented-out lines of code should be removed.(î<8½îşƒà/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü…„ıÿÿÿÿ8ïÁ¼ıß/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ü¾ºıß/

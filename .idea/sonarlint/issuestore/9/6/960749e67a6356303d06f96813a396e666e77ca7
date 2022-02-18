@@ -1,0 +1,23 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(£ôŸßøÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(µÏÖæüÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "searchString".(şÌü‡üÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(±ş¢ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¹šå¡üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş†¾‚ùÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(”„ïèıÿÿÿÿ
+L
+java:S1481"1Remove this unused "searchString" local variable.(şÌü‡üÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(–óÃ¨ÿÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ùûıÿÿÿÿ
+L	java:S1065"9Replace this use of System.out or System.err by a logger.(åñU
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“‘íì
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(ÜÅµ#
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(áî±İ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Ò›ñ¿ûÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(¯áôˆ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(³”ó†
+J
+java:S3740"/Provide the parametrized type for this generic.(—åãûşÿÿÿÿ

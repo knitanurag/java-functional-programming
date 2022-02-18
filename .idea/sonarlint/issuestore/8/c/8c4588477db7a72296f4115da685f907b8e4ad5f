@@ -1,0 +1,26 @@
+
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(’¶¹‚
+C
+java:S11210".Extract the assignment out of this expression.(Õşíz
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ªéî
+Q	java:S1255"<This block of commented-out lines of code should be removed.(´“”ÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal ", result = " 3 times.(şœœûÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(éÂéùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(…Âùûÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ô’¶Ñ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ø£Ùı
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÜëÓ›ÿÿÿÿÿ
+P
+java:S21238":Remove this increment or correct the code not to waste it.(ÛÈ­¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê¨Îƒøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¨ìß½øÿÿÿÿ
+b
+java:S1192"LDefine a constant instead of duplicating this literal ", number = " 3 times.(¯à“‘
+P
+java:S1854
+":Remove this useless assignment to local variable "number".(Ñ¿Áæ
+P
+java:S18548":Remove this useless assignment to local variable "number".(ÛÈ­¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯à“‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯à“‘
